@@ -16,6 +16,7 @@ Katkıları İçin Teşekkürler! `KlouqzSenpai - Co-Founder`
 Glitch,Replit Gibi Platformlarda Kullanılacaksa Ayarlar Dosyası Ayarlanmalı, Visual Studio Code & VDS Kullanılacaksa Eğer `node index.js` İle Botu Aktif Edebilir, Modül Hatası Alınıyorsa Tüm Platformlarda `npm i` Komutunu Kullanınız.
 
 ## İletişim İçin
+🔭 Bana Ait Resmi Website [Tıkla](https://lytwest.live/) ~ ⚡
 🔭 Poliéncé Resmi Topluluk Sunucusu [Tıkla](https://discord.gg/TqRWBdpy6w) ~ ⭐
 🔭 Poliéncé Davet Linki (210+ Sunucu) [Tıkla](https://top.gg/bot/834768434574786561/invite) ~ ⭐
 🔭 Poliéncé Oy Linki [Tıkla](https://top.gg/bot/834768434574786561/vote) ~ ⭐
